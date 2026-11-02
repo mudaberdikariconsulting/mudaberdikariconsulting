@@ -40,7 +40,7 @@ Our software engineers support the organization through technology, system devel
 | Name | GitHub |
 | --- | --- |
 | Arya Wiratama | [@AryaWiratama26](https://github.com/AryaWiratama26) |
-| Adrian Mardian | [@Adrianmardiat28](https://github.com/Adrianmardiat28) |
+| Adrian Mardiat | [@Adrianmardiat28](https://github.com/Adrianmardiat28) |
 | Muhammad Akbar Saladin | [@akbarsaladin36](https://github.com/akbarsaladin36) |
 
 ## Locations & Contact
